@@ -34,3 +34,12 @@ header {
 nav {
     float: right;
 }
+
+
+.dark {
+    background: black;
+    color: white;
+    a{
+        color: whitesmoke;
+    }
+}
