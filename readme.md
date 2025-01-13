@@ -41,7 +41,7 @@ Verander de titel van de website naar een variabele in JavaScript.
 ### Opdracht 1b
 Verander de subtitel van de website naar de variabele in JavaScript.
 
-## Opdracht 2: querySelectorAll + for-loop
+## Opdracht 2: querySelector + for-loop
 Verander de inhoudsopgave naar de array met verschillende planeten.
 1. Voeg een klasse toe aan de ordered-list. (index.html)
 2. Selecteer de ordered-list met behulp van ```querySelector```. (main.js)
@@ -74,3 +74,10 @@ Als men op de knop “make light” klikt, moet de klasse dark weer verwijderd w
 
 ### Opdracht 4c
 Als men op de knop “switch theme” klikt, moet de klasse dark weggehaald worden als deze er is, en toegevoegd worden als deze er niet is.
+
+## opdracht 5
+Zorg ervoor dat alle artikelen over de planeten getoond worden.
+1. Selecteer de artikelenlijst met behulp van ```querySelector```.
+2. Maak de article-list leeg.   
+3. Maak een ```for-loop``` voor alle articles. (main.js)
+4. Voeg met innerHTML de artikelen toe aan de lijst. (main.js)
